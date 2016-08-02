@@ -1,8 +1,11 @@
 
-# NAMD Basic Workflow
+# Charmm36 patches
+
+## 1. RNA to DNA patch
 
 
-## DNA Methylation Patch notes
+
+## 2. DNA Methylation Patch notes
 
 To apply methylation patches to CYT, first generate the DNA model and then apply 5MC* patches to the corresponding bases. There are two types of 5MC*patches: 5MC1 and 5MC2.
 
